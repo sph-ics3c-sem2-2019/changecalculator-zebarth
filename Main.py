@@ -6,3 +6,4 @@
 # loonies, toonies, $5s, $10s, $20s, $50s, $100s
 # If amount is below the cost, say how much more they owe.
 cost=float(input("How much does the item cost?"))
+amount=float(input("How much did the person pay?"))
